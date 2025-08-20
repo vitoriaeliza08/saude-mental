@@ -35,38 +35,51 @@ const perguntas = [
         enunciado: "3- Como é sua rotina de sono?",
         alternativas: [
             {
-                texto: "a) Tenho um horário ",
-                afirmacao: ""
+                texto: "a) Tenho um horário regular e procuro descansar bem.",
+                afirmacao: "Você busca manter uma rotina saudável e equilibrada."
             },
             {
-                texto: "",
-                afirmacao: ""
+                texto: "b) Durmo pouco e com horários irregulares.",
+                afirmacao: "Você pode estar enfrentando desafios para encontrar esse equilíbrio."
             }
         ]
     },
     {
-        enunciado: "",
+        enunciado: "4- Você se sente confortável em pedir ajuda quando precisa?",
         alternativas: [
             {
-                texto: "",
-                afirmacao: ""
+                texto: "a) Sim, sei que é importante contar com apoio.",
+                afirmacao: "Você acredita que buscar apoio especializado é um passo importante."
             },
             {
-                texto: "",
-                afirmacao: ""
+                texto: "b) Não, prefiro resolver sozinho(a).",
+                afirmacao: "Você pode preferir resolver questões de saúde mental por conta própria."
             }
         ]
     },
     {
-        enunciado: "",
+        enunciado: "5- Como você lida com pensamentos negativos?",
         alternativas: [
             {
-                texto: "",
-                afirmacao: ""
+                texto: "a) Tento reestruturar meus pensamentos e buscar solução.",
+                afirmacao: "Você reconhece o impacto do estresse e busca formas de enfrentá-lo."
             },
             {
-                texto: "",
-                afirmacao: ""
+                texto: "b) Fico preso(a) neles por muito tempo.",
+                afirmacao: "Você pode estar ignorando o estresse ou não sabe como lidar com ele."
+            }
+        ]
+    },
+    {
+        enunciado: "6- Como você se vê na sua própria jornada emocional?",
+        alternativas: [
+            {
+                texto: "a) Estou constantemente buscando evoluir e me entender.",
+                afirmacao: "Você valoriza os relacionamentos e sabe que eles são fundamentais."
+            },
+            {
+                texto: "b) Não costumo refletir sobre isso e apenas sigo o fluxo.",
+                afirmacao: "Você pode estar se isolando ou distante das pessoas ao seu redor."
             }
         ]
     },
